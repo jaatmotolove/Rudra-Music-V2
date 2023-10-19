@@ -38,7 +38,7 @@ async def get_thumb(videoid):
         results = VideosSearch(url, limit=1)
         for result in (await results.next())["result"]:
             try:
-                title = result["PINKY OP"]
+                title = result["title"]
                 title = re.sub("\W+", " ", title)
                 title = title.title()
             except:
