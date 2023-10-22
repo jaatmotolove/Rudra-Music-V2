@@ -25,7 +25,7 @@ def private_panel(_):
             InlineKeyboardButton(
                 text="•─╼⃝𖠁𝐀𝙳𝙳 ◈ 𝐌𝙴 ◈ 𝐁𝙰𝙱𝚈𖠁⃝╾─•",
                 url=f"https://t.me/{app.username}?startgroup=true",
-            )
+            ), 
         ],
         [InlineKeyboardButton(text="🐾𝐅ᴇᴀᴛᴜʀᴇs🐾", callback_data="settings_back_helper")],
         [
