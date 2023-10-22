@@ -18,7 +18,7 @@ def start_panel(_):
             InlineKeyboardButton(text="✨𝐆ʀᴏᴜᴘ✨", url=config.SUPPORT_CHAT),
         ],
         [
-            InlineKeyboardButton(text="🌺𝐎ᴡɴᴇʀ🌺", user_id=config.OWNER_ID),
+            InlineKeyboardButton(text="🌺𝐎ᴡɴᴇʀ🌺", url=f"https://t.me/RUDRA_JAAT"),
         ],
     ]
     return buttons
@@ -38,7 +38,7 @@ def private_panel(_):
             InlineKeyboardButton(text="✨𝐆ʀᴏᴜᴘ✨", url=config.SUPPORT_CHAT),
         ],
         [
-            InlineKeyboardButton(text="🌺𝐎ᴡɴᴇʀ🌺", user_id=config.OWNER_ID),
+            InlineKeyboardButton(text="🌺𝐎ᴡɴᴇʀ🌺", url=f"https://t.me/RUDRA_JAAT"),
         ],
     ]
     return buttons
