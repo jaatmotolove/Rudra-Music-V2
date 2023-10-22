@@ -30,7 +30,7 @@ def private_panel(_):
         [InlineKeyboardButton(text="🐾𝐅ᴇᴀᴛᴜʀᴇs🐾", callback_data="settings_back_helper")],
         [
             InlineKeyboardButton(text="🌺𝐎ᴡɴᴇʀ🌺", user_id=config.OWNER_ID),
-            InlineKeyboardButton(text=✨𝐆ʀᴏᴜᴘ✨, url=config.SUPPORT_CHAT),
+            InlineKeyboardButton(text="✨𝐆ʀᴏᴜᴘ✨", url=config.SUPPORT_CHAT),
         ],
         [
             InlineKeyboardButton(text="🐰𝐂ʜᴀɴɴᴇʟ🐰", url=config.SUPPORT_CHANNEL),
