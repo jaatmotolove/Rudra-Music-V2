@@ -70,7 +70,7 @@ async def _greet(_, message):
                 f"👥𝐂ᴏᴍᴘʟᴇᴛᴇᴅ {count} 𝐌ᴇᴍʙᴇʀ𝐬🎉\n➖➖➖➖➖➖➖➖➖➖➖\n"
             )
             await app.send_photo(message.chat.id, photo=random.choice(photo), caption=msg, reply_markup=InlineKeyboardMarkup([
-            [InlineKeyboardButton(f"🌺•─╼⃝𖠁𝐀𝙳𝙳 ◈ 𝐌𝙴 ◈ 𝐁𝙰𝙱𝚈𖠁⃝╾─•🌺", url=f"https://t.me/{app.username}?startgroup=true")]
+            [InlineKeyboardButton(f"🌺•─╼⃝𖠁𝐀𝙳𝙳 ◈ 𝐌𝙴 ◈ 𝐁𝙰𝙱𝚈•🌺", url=f"https://t.me/{app.username}?startgroup=true")]
          ]))
 
 
