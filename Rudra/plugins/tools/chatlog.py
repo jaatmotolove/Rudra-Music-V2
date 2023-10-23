@@ -33,7 +33,7 @@ async def join_watcher(_, message):
                 f"💖𝐔ʀ 𝐈d: {message.from_user.id}\n➖➖➖➖➖➖➖➖➖➖➖\n"
                 f"✍️𝐔ʀ 𝐔.𝐍: @{message.from_user.username}\n➖➖➖➖➖➖➖➖➖➖➖\n"
                 f"👥𝐂ᴏᴍᴘʟᴇᴛᴇᴅ {count} 𝐌ᴇᴍʙᴇʀ𝐬🎉\n➖➖➖➖➖➖➖➖➖➖➖\n"
-                f"🤔 𝐀ᴅᴅᴇᴅ 𝐁ʏ: {message.from_user.mention} 🌺𝐓ʜᴀɴᴋs 𝐅ᴏʀ 𝐒ᴜᴘᴘᴏʀᴛ💕🌹\n➖➖➖➖➖➖➖➖➖➖➖\n"
+                f"🤔 𝐀ᴅᴅᴇᴅ 𝐁ʏ: {message.from_user.mention}\n🌺𝐓ʜᴀɴᴋs 𝐅ᴏʀ 𝐒ᴜᴘᴘᴏʀᴛ💕🌹\n➖➖➖➖➖➖➖➖➖➖➖\n"
             )
             await app.send_photo(LOG_GROUP_ID, photo=random.choice(photo), caption=msg, reply_markup=InlineKeyboardMarkup([
             [InlineKeyboardButton(f"sᴇᴇ ɢʀᴏᴜᴘ👀", url=f"{link}")]
