@@ -7,7 +7,7 @@ from config import LOGGER_ID as LOG_GROUP_ID
 from Rudra import app  
 
 photo = [
-    "https://telegra.ph/file/d8f59293703755fcd7aec.mp4",
+    "https://telegra.ph/file/5a86a80721f7394ed8d73.jpg",
 ]
 
 
