@@ -33,25 +33,25 @@ def stream_markup_timer(_, chat_id, played, dur):
     percentage = (played_sec / duration_sec) * 100
     umm = math.floor(percentage)
     if 0 < umm <= 10:
-        bar = "✦ᴘɪᴋᴜ✦—————————"
+        bar = "✦ᴠᴋᴅ✦—————————"
     elif 10 < umm < 20:
-        bar = "—✦ᴘɪᴋᴜ✦————————"
+        bar = "—✦ᴠᴋᴅ✦————————"
     elif 20 <= umm < 30:
-        bar = "——✦ᴘɪᴋᴜ✦———————"
+        bar = "——✦ᴠᴋᴅ✦———————"
     elif 30 <= umm < 40:
-        bar = "———✦ᴘɪᴋᴜ✦——————"
+        bar = "———✦ᴠᴋᴅ✦——————"
     elif 40 <= umm < 50:
-        bar = "————✦ᴘɪᴋᴜ✦—————"
+        bar = "————✦ᴠᴋᴅ✦—————"
     elif 50 <= umm < 60:
-        bar = "—————✦ᴘɪᴋᴜ✦————"
+        bar = "—————✦ᴠᴋᴅ✦————"
     elif 60 <= umm < 70:
-        bar = "——————✦ᴘɪᴋᴜ✦———"
+        bar = "——————✦ᴠᴋᴅ✦———"
     elif 70 <= umm < 80:
-        bar = "———————✦ᴘɪᴋᴜ✦——"
+        bar = "———————✦ᴠᴋᴅ✦——"
     elif 80 <= umm < 95:
-        bar = "————————✦ᴘɪᴋᴜ✦—"
+        bar = "————————✦ᴠᴋᴅ✦—"
     else:
-        bar = "—————————✦ᴘɪᴋᴜ✦"
+        bar = "—————————✦ᴠᴋᴅ✦"
     buttons = [
         [
             InlineKeyboardButton(
