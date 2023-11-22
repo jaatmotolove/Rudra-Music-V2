@@ -43,9 +43,9 @@
 
 - [![YouTube Video Views](https://img.shields.io/youtube/views/U8T5W3J1FNo?label=Tutorial+•+Heroku+•&style=social)](https://youtube.com/@rudra12354?si=bOsF3LJDSNWBWzmh)
 
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=⚠️𝐈𝐟+𝐀𝐧𝐲+𝐄𝐫𝐫𝐨𝐫+𝐓𝐡𝐞𝐧+𝐒𝐞𝐧𝐝+𝐄𝐫𝐫𝐨𝐫+𝐈𝐧+𝐑𝐮𝐝𝐫𝐚+𝐃𝐦+...">
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=⚠️𝐈𝐟+𝐀𝐧𝐲+𝐄𝐫𝐫𝐨𝐫+𝐓𝐡𝐞𝐧+𝐒𝐞𝐧𝐝+𝐄𝐫𝐫𝐨𝐫+𝐈𝐧+𝙰𝚈𝚄𝚂𝙷+𝙳𝙼+...">
 <p align="center">
-<a href="https://telegram.me/RUDRA_JAAT"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐑𝐔𝐃𝐑𝐀 𝐉𝐀𝐀𝐓%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/TERA_PEYOH_brokeN"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐑𝐔𝐃𝐑𝐀 𝐉𝐀𝐀𝐓%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
