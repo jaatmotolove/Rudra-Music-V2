@@ -24,7 +24,7 @@
   <img src="https://telegra.ph/file/6d7f8ed0cc29ea30f29c2.jpg">
 </p>
 
-**𝗩𝗜𝗣 𝘽𝙊𝙏 ➣ [𝄟ॐ❥𝗧𝗚🍷𝗩𝗖🌷𝗕𝗢𝗧❥𝄟⃟🥀](https://t.me/VRANDA_MUSIC_BOT)**
+** 𝗜𝗧𝗦 𝗔𝗬𝗨𝗦𝗛 ➣ [𓆩𝐀𝐘𝐔𝐒𝐇 ♡ 𝐗ᴅ𓆪ㅤㅤ🥀](https://t.me/Tere_papa_broken)**
 
 
 
