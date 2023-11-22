@@ -14,7 +14,7 @@
 
 
 
-<h3 align="center">
+<h2 align="center">
     ─「 𝗔𝗬𝗨𝗦𝗛 𝗝𝗛𝗔 」─
 
 ★ 𝙷𝙴𝚁𝙾𝙺𝚄 + 𝚅𝙿𝚂 ★
