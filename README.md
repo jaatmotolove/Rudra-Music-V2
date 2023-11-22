@@ -14,7 +14,7 @@
 
 
 
-<h2 align="center">
+<h3 align="center">
     ─「 𝗔𝗬𝗨𝗦𝗛 𝗝𝗛𝗔 」─
 
 ★ 𝙷𝙴𝚁𝙾𝙺𝚄 + 𝚅𝙿𝚂 ★
@@ -34,8 +34,8 @@
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 
-<h2> 𝗛𝗘𝗥𝗢𝗞𝗨 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗕𝗨𝗧𝗧𝗢𝗡 </h2>
-</h2>
+<h3> 𝗛𝗘𝗥𝗢𝗞𝗨 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗕𝗨𝗧𝗧𝗢𝗡 </h3>
+</h3>
 
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Ayushjha9988/Rudra-Music-V2"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-bringle?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Ayushjha9988/Rudra-Music-V2"> <img src="https://graph.org/file/45fb54baa5bddfca1c040.jpg" width="520" height="198.45"/></a></p>
