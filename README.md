@@ -1,9 +1,9 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━
 <p align="center">
-🥰 𝐉𝐀𝐀𝐓 𝐒𝐀𝐑𝐊𝐀𝐑 🥰
+🥰 𝐓𝐄𝐀𝐌 𝐀𝐘𝐔𝐒𝐇 🥰
 
 <!--
-**RUDRA-JAAT/RUDRA-JAAT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AYUSH-JHA/AYUSH-JHA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 <p align="center">
@@ -15,11 +15,11 @@
 
 
 <h2 align="center">
-    ─「 𝗥𝗨𝗗𝗥𝗔 𝗝𝗔𝗔𝗧 」─
+    ─「 𝗔𝗬𝗨𝗦𝗛 𝗝𝗛𝗔 」─
 
 ★ 𝙷𝙴𝚁𝙾𝙺𝚄 + 𝚅𝙿𝚂 ★
 </h2>
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;♨️+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;🎭+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+𝗥𝗨𝗗𝗥𝗔+𝗝𝗔𝗔𝗧🎭">
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;♨️+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;🎭+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+𝗔𝗬𝗨𝗦𝗛+𝗝𝗛𝗔🎭">
 <p align="center">
   <img src="https://telegra.ph/file/6d7f8ed0cc29ea30f29c2.jpg">
 </p>
