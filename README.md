@@ -1,6 +1,6 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━
 <p align="center">
-  +✗𝐓𝐄𝐀𝐌+⇆+𝐀𝐘𝐔𝐒𝐇™ 
+  ✗𝐓𝐄𝐀𝐌⇆𝐀𝐘𝐔𝐒𝐇™ 
 
 <!--
 **AYUSH-JHA/AYUSH-JHA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
